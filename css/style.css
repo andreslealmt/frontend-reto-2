@@ -20,7 +20,7 @@ iframe {
     cursor: pointer;
 }
 
-td {   
+td, th {   
     text-align: center;
 }
 

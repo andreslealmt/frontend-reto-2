@@ -101,6 +101,8 @@ const navbar = ancla => {
                   <th scope="col">Nombre</th>
                   <th scope="col">Email</th>
                   <th scope="col">Edad</th>
+                  <th scope="col">Eliminar</th>
+                  <th scope="col">Detalle</th> 
                 </tr>
               </thead>
               <tbody id="tablaCliente">
@@ -140,10 +142,10 @@ const navbar = ancla => {
           <table class="table table-striped table-hover">
               <thead>
                 <tr>
-                  <th scope="col">#</th>
-                  <th scope="col">First</th>
-                  <th scope="col">Last</th>
-                  <th scope="col">Handle</th>
+                  <th scope="col">Id</th>
+                  <th scope="col">Mensaje</th>
+                  <th scope="col">Eliminar</th>
+                  <th scope="col">Detalle</th> 
                 </tr>
               </thead>
               <tbody id="tablaMensaje">
